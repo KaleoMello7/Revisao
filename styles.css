@@ -17,3 +17,18 @@ h3 {
   text-align: center;
   border: 2px double purple;
 }
+
+h4 {
+  letter-spacing: 2px;
+}
+
+p {
+  background-color: yellow;
+  color: orange;
+}
+
+body {
+  background-image: url("fundo.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
