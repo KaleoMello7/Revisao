@@ -12,3 +12,8 @@ h2 {
   font-family: Verdana;
   text-transform: uppercase;
 }
+
+h3 {
+  text-align: center;
+  border: 2px double purple;
+}
